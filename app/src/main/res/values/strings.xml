@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exemplo Intent</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="strIdade">Idade</string>
+    <string name="strNome">Nome</string>
+    <string name="strSim">Sim</string>
+    <string name="strNao">Não</string>
+    <string name="strSalario">Salario</string>
+    <string name="strEnviar">Enviar</string>
+    <string name="strCompleta">Complete todos os campos</string>
+</resources>
